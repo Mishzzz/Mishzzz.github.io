@@ -1,0 +1,14 @@
+p{
+    color:crimson;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 300px;
+        
+}
+body{
+    background-image: url(img/kyoLaugh.gif);
+}
+div{
+    position: absolute;
+    right: -400px;
+}
